@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Album One",
+    "artist": "Artist One",
+    "year": 2021
+  },
+  {
+    "title": "Album Two",
+    "artist": "Artist Two",
+    "year": 2022
+  },
+  {
+    "title": "Album Three",
+    "artist": "Artist Three",
+    "year": 2023
+  }
+]
